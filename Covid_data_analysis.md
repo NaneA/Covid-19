@@ -32,12 +32,16 @@ Checking whether people with health issues are stressed about the virus,
 are they wearing masks or not. Results(more below): As observed people
 with ilnesses are more stressed and wear maks more than people without
 ilnesses. And as expected people with illnesses caught virus less than
-people having them. \#\#\# 4. Check which sympoms are most common for
-people who tested positive for Covid-19 and find out which symptoms can
-be indicator that one has caught the virus. Results:the most common
-symptoms are lossofSmell and Sore Troat, also Temperature and Cough are
-common but less than two previosly mentioned ones. Therefore, if one has
-loss of Smell of Sore throat should undoubtedely visit a doctor.
+people having them.
+
+### 4.
+
+Check which sympoms are most common for people who tested positive for
+Covid-19 and find out which symptoms can be indicator that one has
+caught the virus. Results:the most common symptoms are lossofSmell and
+Sore Troat, also Temperature and Cough are common but less than two
+previosly mentioned ones. Therefore, if one has loss of Smell of Sore
+throat should undoubtedely visit a doctor.
 
 ### First finding
 
