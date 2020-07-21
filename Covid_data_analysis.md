@@ -3,7 +3,6 @@ title: "Individual_project for Data Science Summer 2020"
 output: 
   html_document:
     keep_md: true
-  html_notebook: 
     fig_caption: yes
     toc: yes
 editor_options: 
