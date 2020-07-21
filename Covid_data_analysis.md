@@ -7,6 +7,7 @@ output:
 
 
 
+
 ## R Markdown
 
 
@@ -68,7 +69,7 @@ We can check for outliers in two ways in first way we will count numbers of each
 ## 10                 10    32
 ## # ... with 46 more rows
 ```
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-6-1.png)<!-- -->
 So it become obvious that there are a lot of outliers in our data from which we need to get rid of. I think some users entered random numbers. There was also class imbalance problem so in following step I chose equal number of classes from householdHeadcount
 
 ```
@@ -89,13 +90,13 @@ So it become obvious that there are a lot of outliers in our data from which we 
  let's see what can cause mental healt impact. There can be two options whether people feel stressed when there are few people at home or stressed that they are locked with many household members.
 As we see from the graph number of household members
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-8-1.png)<!-- -->
 
 ```
 ## [1] "someImpact"        "significantImpact" "noImpact"
 ```
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-9-1.png)<!-- -->
 ### Result: the larger is number of household members the stressed people feel during the lockdown. Recommendation: sometimes leave the house :))
 
 
@@ -103,12 +104,12 @@ As we see from the graph number of household members
 # Second Observation
 
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-10-1.png)<!-- -->
 
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-11-1.png)<!-- -->
 ### As we see women were more responsible and wore their masks now let's see whether masks helped hell women to get infected. I think yes, but let's check.
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-12-1.png)<!-- -->
 
 ### As we masks weren't that effective as there are more percentage of  infected women than men!!
 
@@ -137,7 +138,7 @@ Below we see that people have no issues are also concerned but many said that vi
 ```
 Now let's see if people with illnesses who are scared wear masks and if they do are they effective
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-15-1.png)<!-- -->
 
 As expected people with illnesses wear masks more often that people with no issues
 
@@ -158,7 +159,7 @@ ALthough people don't get virus often people with no issues caught them more => 
 
 ### Now let's see what symtoms usually people get when testing positive
 
-![](Covid_data_analysis_files/figure-html/unnamed-chunk-17-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-17-1.png)<!-- -->
 
 
 So as we see people most common sympotoms to warn you of illness is lossSmell and Sorethroat.
